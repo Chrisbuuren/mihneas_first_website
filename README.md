@@ -15,7 +15,5 @@
   - navigate to _http://www.your-ip:7777_;
  
 
-```
 [![mihnea.png](https://s2.postimg.org/ev9aaln3t/mihnea.png)](https://postimg.org/image/dsz3s24ad/)
-```
 
